@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My naam is pofpof
         </a>
       </header>
     </div>
